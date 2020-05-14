@@ -1,0 +1,2 @@
+(this["webpackJsonptest-items-belhard-react"]=this["webpackJsonptest-items-belhard-react"]||[]).push([[5],{41:function(e,a,t){"use strict";t.r(a);var n=t(0),s=t.n(n);a.default=function(){return s.a.createElement("main",{className:"main"},s.a.createElement("div",{className:"container"},s.a.createElement("div",{className:"news"},s.a.createElement("h1",null,"Home"))))}}}]);
+//# sourceMappingURL=5.cb40631c.chunk.js.map

@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/test-items-belhard-react/static/css/main.c86a7b27.chunk.css",
+    "main.js": "/test-items-belhard-react/static/js/main.fd48a823.chunk.js",
+    "main.js.map": "/test-items-belhard-react/static/js/main.fd48a823.chunk.js.map",
+    "runtime-main.js": "/test-items-belhard-react/static/js/runtime-main.008b0d44.js",
+    "runtime-main.js.map": "/test-items-belhard-react/static/js/runtime-main.008b0d44.js.map",
+    "static/css/2.7bbfeb74.chunk.css": "/test-items-belhard-react/static/css/2.7bbfeb74.chunk.css",
+    "static/js/2.41e6e035.chunk.js": "/test-items-belhard-react/static/js/2.41e6e035.chunk.js",
+    "static/js/2.41e6e035.chunk.js.map": "/test-items-belhard-react/static/js/2.41e6e035.chunk.js.map",
+    "static/css/3.fc71ad64.chunk.css": "/test-items-belhard-react/static/css/3.fc71ad64.chunk.css",
+    "static/js/3.b4ae7006.chunk.js": "/test-items-belhard-react/static/js/3.b4ae7006.chunk.js",
+    "static/js/3.b4ae7006.chunk.js.map": "/test-items-belhard-react/static/js/3.b4ae7006.chunk.js.map",
+    "static/css/4.e68d82e0.chunk.css": "/test-items-belhard-react/static/css/4.e68d82e0.chunk.css",
+    "static/js/4.2ff186c0.chunk.js": "/test-items-belhard-react/static/js/4.2ff186c0.chunk.js",
+    "static/js/4.2ff186c0.chunk.js.map": "/test-items-belhard-react/static/js/4.2ff186c0.chunk.js.map",
+    "static/js/5.cb40631c.chunk.js": "/test-items-belhard-react/static/js/5.cb40631c.chunk.js",
+    "static/js/5.cb40631c.chunk.js.map": "/test-items-belhard-react/static/js/5.cb40631c.chunk.js.map",
+    "static/js/6.d8a0077d.chunk.js": "/test-items-belhard-react/static/js/6.d8a0077d.chunk.js",
+    "static/js/6.d8a0077d.chunk.js.map": "/test-items-belhard-react/static/js/6.d8a0077d.chunk.js.map",
+    "index.html": "/test-items-belhard-react/index.html",
+    "precache-manifest.da4521ea192cf45ffe2c378cd33317f3.js": "/test-items-belhard-react/precache-manifest.da4521ea192cf45ffe2c378cd33317f3.js",
+    "service-worker.js": "/test-items-belhard-react/service-worker.js",
+    "static/css/2.7bbfeb74.chunk.css.map": "/test-items-belhard-react/static/css/2.7bbfeb74.chunk.css.map",
+    "static/css/3.fc71ad64.chunk.css.map": "/test-items-belhard-react/static/css/3.fc71ad64.chunk.css.map",
+    "static/css/4.e68d82e0.chunk.css.map": "/test-items-belhard-react/static/css/4.e68d82e0.chunk.css.map",
+    "static/css/main.c86a7b27.chunk.css.map": "/test-items-belhard-react/static/css/main.c86a7b27.chunk.css.map",
+    "static/js/2.41e6e035.chunk.js.LICENSE.txt": "/test-items-belhard-react/static/js/2.41e6e035.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.008b0d44.js",
+    "static/css/2.7bbfeb74.chunk.css",
+    "static/js/2.41e6e035.chunk.js",
+    "static/css/main.c86a7b27.chunk.css",
+    "static/js/main.fd48a823.chunk.js"
+  ]
+}
