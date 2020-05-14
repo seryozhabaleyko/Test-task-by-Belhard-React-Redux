@@ -101,3 +101,42 @@ canvas, img, video {
     background-color: white;
     box-shadow: 0 1px 0 0 rgba(139, 141, 157, 0.05), 10px 1px 7px 0 rgba(65, 71, 108, 0.15);
 }
+
+.button {
+    outline: none;
+    cursor: pointer;
+
+    padding: 0 40px;
+
+    border: 1px solid transparent;
+    border-radius: 6px;
+
+    transition: all .3s;
+
+    &-primary {
+        background: #0062ff;
+        border-color: #0062ff;
+        color: #fff;
+
+        &:hover,
+        &:focus {
+            color: #fff;
+            border-color: #377dff;
+            background-color: #377dff;
+        }
+
+        &:active {
+            color: #fff;
+            border-color: #62d76b;
+            background-color: #62d76b;
+        }
+
+        &[disabled],
+        .disabled {
+            background-color: #f5f5f5;
+            border-color: transparent;
+            color: rgba(0,0,0,0.7);
+            cursor: default;
+        }
+    }
+}
