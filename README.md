@@ -1,4 +1,3 @@
 # Test task by Belhard (React/Redux)
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
 
-## [Live Preview](https://seryozhabaleyko.github.io/test-items-belhard-react)
+## [Live Preview](https://seryozhabaleyko.github.io/Test-task-by-Belhard-React-Redux/)
